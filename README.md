@@ -19,8 +19,9 @@ The dataset is availabel in the BCI competition [website](http://www.bbci.de/com
 
 ## BCI Competition III Dataset IIIa
 This folder contains the code for motor imagery problem. The written multiclass kernel SVMs are applied to the dataset to predict which direction the subject was intended to move towards to.
-The dataset is availabel in the BCI competition [website](http://www.bbci.de/competition/iii/#datasets) and should be downloaded and copied into the project folder before running the files.
+The dataset is available in the BCI competition [website](http://www.bbci.de/competition/iii/#datasets) and should be downloaded and copied into the project folder before running the files.
 
 
 ## Seizure Data
 This folder contains the code for determining the seizure moments in EEG signals. It applie the written one class SVM to the dataset.
+The dataset is available in [physionet](https://physionet.org/content/chbmit/1.0.0/) and should be downloaded and copied into the project folder before running the files.
