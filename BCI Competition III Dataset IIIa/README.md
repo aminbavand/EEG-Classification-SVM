@@ -1,3 +1,5 @@
+# BCI Competition III Dataset IIIa
+
 First, run p1.m, or you can just load data_k3_ar_no_artifact.mat instead.
 
 In p2_test_multiclass.m line 7, you can change parameters beta, epoch numbers(en) and gamma in case that you use RBF_kernel version of multiclass SVM.
