@@ -1,3 +1,5 @@
+# BCI Competition III Dataset II
+
 Run Part1_Creating_Training_Signal_and_Labels_and_partitioning, Part2_train_svm, and Part3_test_phase mfiles respectively.
 
 Default setting is for Subject A. If you want to change the subject to B, do the following:
